@@ -8,13 +8,13 @@ const App = () => {
       <BookReview
         title="How to win friends?"
         author="Dale Carnegie"
-        review="Really good!"
+        reviewText="Really good!"
         rating="4 stars"
       ></BookReview>
       <BookReview
         title="Atomic Habits"
         author="James Clear"
-        review="Fantastic!"
+        reviewText="Fantastic!"
         rating="4 stars"
       ></BookReview>
     </div>
